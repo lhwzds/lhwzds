@@ -1,4 +1,4 @@
-SUSTecher Since 2019
+Currently Northwestern & GaTech MS student.
 
 ![](https://github-readme-stats.vercel.app/api?username=lhwzds)
 
