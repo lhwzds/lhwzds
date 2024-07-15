@@ -68,21 +68,35 @@ I'm currently looking for full-time **Software Engineer** opportunities. I'm pur
 
 - 📫 **How to reach me:**
 
+<div align="center">
+
 huaiwuli2025@u.northwestern.edu | hli913@gatech.edu | [LinkedIn Profile](https://www.linkedin.com/in/huaiwu-li-3b1486271) | [GitHub](https://github.com/lhwzds)
 
+</div>
+  
 - **GitHub Trophy:**
+  
+<div align="center">
   
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=lhwzds)
 
+</div>
+
 - **GitHub Streak:**
 
+<div align="center">
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lhwzds)
+
+</div>
 
 - **GitHub Stats:**
 
+<div align="center">
+  
 ![Huaiwu Li's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lhwzds) 
 
-
+</div>
 
 
 
