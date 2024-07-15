@@ -3,6 +3,7 @@
 I'm currently looking for full-time opportunities. I'm pursuing a Master's degree at Northwestern University and Georgia Tech. With a strong background in Computer Science, I'm passionate about software development, AI, and data science. I'm eager to leverage my skills and experience in innovative projects and collaborate with talented professionals.
 
 - 🌟 **Skills:**
+
   - **Languages:**
     
     ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -67,5 +68,6 @@ I'm currently looking for full-time opportunities. I'm pursuing a Master's degre
 
 - 📫 **How to reach me:** huaiwuli2025@u.northwestern.edu | [LinkedIn Profile](https://www.linkedin.com/in/huaiwu-li-3b1486271) | [GitHub](https://github.com/lhwzds)
 
-![Huaiwu Li's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lhwzds)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=lhwzds&show_icons=true&locale=en&layout=compact)
+    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lhwzds)
+    ![Huaiwu Li's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lhwzds)
+
