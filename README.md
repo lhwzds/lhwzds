@@ -103,7 +103,8 @@ huaiwuli2025@u.northwestern.edu | hli913@gatech.edu | [LinkedIn Profile](https:/
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=lhwzds&show_icons=true&locale=en&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhwzds&layout=donut)
+
 
 </div>
 
