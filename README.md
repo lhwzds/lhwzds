@@ -68,6 +68,11 @@ I'm currently looking for full-time opportunities. I'm pursuing a Master's degre
 
 - 📫 **How to reach me:** huaiwuli2025@u.northwestern.edu | [LinkedIn Profile](https://www.linkedin.com/in/huaiwu-li-3b1486271) | [GitHub](https://github.com/lhwzds)
 
-    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lhwzds)
-    ![Huaiwu Li's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lhwzds)
+![Huaiwu Li's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lhwzds)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=lhwzds&show_icons=true&locale=en&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lhwzds)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=lhwzds)
 
