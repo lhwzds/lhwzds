@@ -1,6 +1,6 @@
 ## Hello! I'm Huaiwu Li 👋
 
-I'm currently looking for full-time opportunities. I'm pursuing a Master's degree at Northwestern University and Georgia Tech. With a strong background in Computer Science, I'm passionate about software development, AI, and data science. I'm eager to leverage my skills and experience in innovative projects and collaborate with talented professionals.
+I'm currently looking for full-time **Software Engineer** opportunities. I'm pursuing a Master's degree at **Northwestern University** and **Georgia Tech**. And I received my Bachelor's degree in computer science from **SUSTech** . With a strong background in Computer Science, I'm passionate about software development, AI, and data science. I'm eager to leverage my skills and experience in innovative projects and collaborate with talented professionals.
 
 - 🌟 **Skills:**
 
@@ -66,7 +66,9 @@ I'm currently looking for full-time opportunities. I'm pursuing a Master's degre
     ![REST APIs](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
 
 
-- 📫 **How to reach me:** huaiwuli2025@u.northwestern.edu | [LinkedIn Profile](https://www.linkedin.com/in/huaiwu-li-3b1486271) | [GitHub](https://github.com/lhwzds)
+- 📫 **How to reach me:**
+
+huaiwuli2025@u.northwestern.edu | hli913@gatech.edu | [LinkedIn Profile](https://www.linkedin.com/in/huaiwu-li-3b1486271) | [GitHub](https://github.com/lhwzds)
 
 - **GitHub Trophy:**
   
